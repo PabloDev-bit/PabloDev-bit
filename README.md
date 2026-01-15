@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Pablo
 
-Je suis un étudiant français de 20 ans en informatique au Cégep de Sherbrooke, passionné par la **programmation** et le développement d'applications concrètes.
+Je suis un étudiant français de 21 ans en informatique au Cégep de Sherbrooke, passionné par la **programmation** et le développement d'applications concrètes.
 
 J’adore explorer plusieurs domaines du numérique comme le **développement web**, l’**automatisation**, ou encore l’analyse de données. Je travaille sur plusieurs projets personnels qui me permettent de progresser, de créer des choses utiles, et de tester différentes technologies.
 
